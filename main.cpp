@@ -7,3 +7,5 @@ cout << x;
 
 
 cout << "ce se schimba?";
+
+///mesajul meu lasat aici
