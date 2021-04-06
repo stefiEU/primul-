@@ -4,7 +4,7 @@ int main() {
     cout << "da";
     int x = 2;
     cout << x;
-    cout << "hello there";
+    cout << "Hello there";
     return 0;
 }
 
