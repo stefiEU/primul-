@@ -1,7 +1,11 @@
-cout << "da";
+#include <iostream>
 
-int x = 2;
-cout << x
+int main() {
+    cout << "da";
+    int x = 2;
+    cout << x;
+    cout << "hello there";
+    return 0;
+}
 
-cout << "Hello";
 
