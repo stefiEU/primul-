@@ -6,6 +6,6 @@ cout << x;
 
 
 
-cout << "ce se schimba?";
+cout << "hello";
 
-///mesajul meu lasat aici
+
