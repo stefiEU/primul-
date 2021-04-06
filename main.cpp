@@ -1,9 +1,7 @@
 cout << "da";
 
 int x = 2;
+cout << x
 
-cout << x;
+cout << "Hello";
 
-
-
-cout << "ce se schimba?";
